@@ -1,0 +1,1000 @@
+[20:11:41] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 948 OpenGL errors: 1281
+[20:11:41] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:11:44] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 944 OpenGL errors: 1281
+[20:11:44] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:11:47] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1264 OpenGL errors: 1281
+[20:11:47] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:11:50] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1240 OpenGL errors: 1281
+[20:11:50] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:11:50] [Thread-80/INFO] [minecraft/NewChatGui]: [CHAT] OpenGL Error: 1281 (Invalid value)
+[20:11:53] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 864 OpenGL errors: 1281
+[20:11:53] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:11:56] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1181 OpenGL errors: 1281
+[20:11:56] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:11:59] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1344 OpenGL errors: 1281
+[20:11:59] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:12:02] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 860 OpenGL errors: 1281
+[20:12:02] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:12:02] [Thread-80/INFO] [minecraft/NewChatGui]: [CHAT] OpenGL Error: 1281 (Invalid value)
+[20:12:05] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 916 OpenGL errors: 1281
+[20:12:05] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:12:08] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1196 OpenGL errors: 1281
+[20:12:08] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:12:11] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1296 OpenGL errors: 1281
+[20:12:11] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:12:14] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1420 OpenGL errors: 1281
+[20:12:14] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:12:14] [Thread-80/INFO] [minecraft/NewChatGui]: [CHAT] OpenGL Error: 1281 (Invalid value)
+[20:12:17] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 972 OpenGL errors: 1281
+[20:12:17] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:12:20] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 996 OpenGL errors: 1281
+[20:12:20] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:12:23] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1268 OpenGL errors: 1281
+[20:12:23] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:12:26] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1572 OpenGL errors: 1281
+[20:12:26] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:12:26] [Thread-80/INFO] [minecraft/NewChatGui]: [CHAT] OpenGL Error: 1281 (Invalid value)
+[20:12:29] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1452 OpenGL errors: 1281
+[20:12:29] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:12:32] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1212 OpenGL errors: 1281
+[20:12:32] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:12:35] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 864 OpenGL errors: 1281
+[20:12:35] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:12:38] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1160 OpenGL errors: 1281
+[20:12:38] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:12:38] [Thread-80/INFO] [minecraft/NewChatGui]: [CHAT] OpenGL Error: 1281 (Invalid value)
+[20:12:41] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 848 OpenGL errors: 1281
+[20:12:41] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:12:44] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1164 OpenGL errors: 1281
+[20:12:44] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:12:47] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 836 OpenGL errors: 1281
+[20:12:47] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:12:50] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 876 OpenGL errors: 1281
+[20:12:50] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:12:50] [Thread-80/INFO] [minecraft/NewChatGui]: [CHAT] OpenGL Error: 1281 (Invalid value)
+[20:12:53] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1000 OpenGL errors: 1281
+[20:12:53] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:12:56] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1244 OpenGL errors: 1281
+[20:12:56] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:12:59] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1418 OpenGL errors: 1281
+[20:12:59] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:13:02] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1470 OpenGL errors: 1281
+[20:13:02] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:13:02] [Thread-80/INFO] [minecraft/NewChatGui]: [CHAT] OpenGL Error: 1281 (Invalid value)
+[20:13:05] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1252 OpenGL errors: 1281
+[20:13:05] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:13:08] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 842 OpenGL errors: 1281
+[20:13:08] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:13:11] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1234 OpenGL errors: 1281
+[20:13:11] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:13:14] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1110 OpenGL errors: 1281
+[20:13:14] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:13:14] [Thread-80/INFO] [minecraft/NewChatGui]: [CHAT] OpenGL Error: 1281 (Invalid value)
+[20:13:17] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1688 OpenGL errors: 1281
+[20:13:17] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:13:20] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1588 OpenGL errors: 1281
+[20:13:20] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:13:23] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1728 OpenGL errors: 1281
+[20:13:23] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:13:26] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1804 OpenGL errors: 1281
+[20:13:26] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:13:26] [Thread-80/INFO] [minecraft/NewChatGui]: [CHAT] OpenGL Error: 1281 (Invalid value)
+[20:13:29] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1234 OpenGL errors: 1281
+[20:13:29] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:13:32] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1542 OpenGL errors: 1281
+[20:13:32] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:13:35] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1612 OpenGL errors: 1281
+[20:13:35] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:13:38] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1520 OpenGL errors: 1281
+[20:13:38] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:13:38] [Thread-80/INFO] [minecraft/NewChatGui]: [CHAT] OpenGL Error: 1281 (Invalid value)
+[20:13:41] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1400 OpenGL errors: 1281
+[20:13:41] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:13:44] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1018 OpenGL errors: 1281
+[20:13:44] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:13:47] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1626 OpenGL errors: 1281
+[20:13:47] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:13:50] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 774 OpenGL errors: 1281
+[20:13:50] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:13:50] [Thread-80/INFO] [minecraft/NewChatGui]: [CHAT] OpenGL Error: 1281 (Invalid value)
+[20:13:53] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1318 OpenGL errors: 1281
+[20:13:53] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:13:56] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1054 OpenGL errors: 1281
+[20:13:56] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:13:59] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1682 OpenGL errors: 1281
+[20:13:59] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:14:02] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1544 OpenGL errors: 1281
+[20:14:02] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:14:02] [Thread-80/INFO] [minecraft/NewChatGui]: [CHAT] OpenGL Error: 1281 (Invalid value)
+[20:14:05] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 742 OpenGL errors: 1281
+[20:14:05] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:14:08] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 712 OpenGL errors: 1281
+[20:14:08] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:14:11] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1456 OpenGL errors: 1281
+[20:14:11] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:14:14] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1542 OpenGL errors: 1281
+[20:14:14] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:14:14] [Thread-80/INFO] [minecraft/NewChatGui]: [CHAT] OpenGL Error: 1281 (Invalid value)
+[20:14:17] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1499 OpenGL errors: 1281
+[20:14:17] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:14:20] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1064 OpenGL errors: 1281
+[20:14:20] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:14:23] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1204 OpenGL errors: 1281
+[20:14:23] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:14:26] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1640 OpenGL errors: 1281
+[20:14:26] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:14:26] [Thread-80/INFO] [minecraft/NewChatGui]: [CHAT] OpenGL Error: 1281 (Invalid value)
+[20:14:29] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1294 OpenGL errors: 1281
+[20:14:29] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:14:32] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1140 OpenGL errors: 1281
+[20:14:32] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:14:35] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1300 OpenGL errors: 1281
+[20:14:35] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:14:38] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1184 OpenGL errors: 1281
+[20:14:38] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:14:38] [Thread-80/INFO] [minecraft/NewChatGui]: [CHAT] OpenGL Error: 1281 (Invalid value)
+[20:14:41] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1032 OpenGL errors: 1281
+[20:14:41] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:14:44] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 904 OpenGL errors: 1281
+[20:14:44] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:14:47] [Render thread/INFO] [Silent Gear/]: getOverrideModel for Netherite Diamond Bow (normal)
+[20:14:47] [Render thread/INFO] [Silent Gear/]: - model key bow:bow_limbs{diamond,diamond,diamond},bowstring{flax,sinew,string},rod{platinum,diamond},coating{netherite},
+[20:14:47] [Render thread/INFO] [Silent Gear/]:   - add layer silentgear:rod_generic_hc (rod, #9DC3FB)
+[20:14:47] [Render thread/INFO] [Silent Gear/]:   - add layer silentgear:main_generic_hc (main, #33EBCB)
+[20:14:47] [Render thread/INFO] [Silent Gear/]:   - add layer silentgear:_highlight (main, colorless)
+[20:14:47] [Render thread/INFO] [Silent Gear/]:   - add layer silentgear:main_generic_hc (coating, #867B86)
+[20:14:47] [Render thread/INFO] [Silent Gear/]:   - add layer silentgear:_highlight (coating, colorless)
+[20:14:47] [Render thread/INFO] [Silent Gear/]:   - add layer silentgear:bowstring_string (bowstring, #8B6C51)
+[20:14:47] [Render thread/INFO] [Silent Gear/]:   - add layer silentgear:arrow (bowstring, colorless)
+[20:14:47] [Render thread/INFO] [Silent Gear/]:   - silentgear:rod_generic_hc -> silentgear:item/bow/rod_generic_hc
+[20:14:47] [Render thread/INFO] [Silent Gear/]:   - silentgear:main_generic_hc -> silentgear:item/bow/main_generic_hc
+[20:14:47] [Render thread/INFO] [Silent Gear/]:   - silentgear:_highlight -> silentgear:item/bow/_highlight
+[20:14:47] [Render thread/INFO] [Silent Gear/]:   - silentgear:main_generic_hc -> silentgear:item/bow/main_generic_hc
+[20:14:47] [Render thread/INFO] [Silent Gear/]:   - silentgear:_highlight -> silentgear:item/bow/_highlight
+[20:14:47] [Render thread/INFO] [Silent Gear/]:   - silentgear:bowstring_string -> silentgear:item/bow/bowstring_string
+[20:14:47] [Render thread/INFO] [Silent Gear/]:   - silentgear:arrow -> silentgear:item/bow/arrow
+[20:14:47] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 748 OpenGL errors: 1281
+[20:14:47] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:14:50] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1008 OpenGL errors: 1281
+[20:14:50] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:14:50] [Thread-80/INFO] [minecraft/NewChatGui]: [CHAT] OpenGL Error: 1281 (Invalid value)
+[20:14:53] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1364 OpenGL errors: 1281
+[20:14:53] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:14:56] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1668 OpenGL errors: 1281
+[20:14:56] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:14:59] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1092 OpenGL errors: 1281
+[20:14:59] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:15:02] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1816 OpenGL errors: 1281
+[20:15:02] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:15:02] [Thread-80/INFO] [minecraft/NewChatGui]: [CHAT] OpenGL Error: 1281 (Invalid value)
+[20:15:05] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1688 OpenGL errors: 1281
+[20:15:05] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:15:08] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1412 OpenGL errors: 1281
+[20:15:08] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:15:11] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1092 OpenGL errors: 1281
+[20:15:11] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:15:14] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 636 OpenGL errors: 1281
+[20:15:14] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:15:14] [Thread-80/INFO] [minecraft/NewChatGui]: [CHAT] OpenGL Error: 1281 (Invalid value)
+[20:15:17] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 632 OpenGL errors: 1281
+[20:15:17] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:15:20] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1066 OpenGL errors: 1281
+[20:15:20] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:15:23] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1320 OpenGL errors: 1281
+[20:15:23] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:15:26] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1472 OpenGL errors: 1281
+[20:15:26] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:15:26] [Thread-80/INFO] [minecraft/NewChatGui]: [CHAT] OpenGL Error: 1281 (Invalid value)
+[20:15:29] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 858 OpenGL errors: 1281
+[20:15:29] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:15:32] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 864 OpenGL errors: 1281
+[20:15:32] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:15:35] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1096 OpenGL errors: 1281
+[20:15:35] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:15:38] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1756 OpenGL errors: 1281
+[20:15:38] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:15:38] [Thread-80/INFO] [minecraft/NewChatGui]: [CHAT] OpenGL Error: 1281 (Invalid value)
+[20:15:41] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1324 OpenGL errors: 1281
+[20:15:41] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:15:44] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1112 OpenGL errors: 1281
+[20:15:44] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:15:47] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 840 OpenGL errors: 1281
+[20:15:47] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:15:50] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 948 OpenGL errors: 1281
+[20:15:50] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:15:50] [Thread-80/INFO] [minecraft/NewChatGui]: [CHAT] OpenGL Error: 1281 (Invalid value)
+[20:15:53] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 804 OpenGL errors: 1281
+[20:15:53] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:15:56] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 776 OpenGL errors: 1281
+[20:15:56] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:15:59] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1572 OpenGL errors: 1281
+[20:15:59] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:16:02] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1324 OpenGL errors: 1281
+[20:16:02] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:16:02] [Thread-80/INFO] [minecraft/NewChatGui]: [CHAT] OpenGL Error: 1281 (Invalid value)
+[20:16:04] [Render thread/INFO] [Silent Gear/]: getOverrideModel for Netherite Diamond Sword (normal)
+[20:16:04] [Render thread/INFO] [Silent Gear/]: - model key sword:sword_blade{diamond,diamond},rod{iron},coating{netherite},
+[20:16:04] [Render thread/INFO] [Silent Gear/]:   - add layer silentgear:rod_generic_lc (rod, #D8D8D8)
+[20:16:04] [Render thread/INFO] [Silent Gear/]:   - add layer silentgear:main_generic_hc (main, #33EBCB)
+[20:16:04] [Render thread/INFO] [Silent Gear/]:   - add layer silentgear:_highlight (main, colorless)
+[20:16:04] [Render thread/INFO] [Silent Gear/]:   - add layer silentgear:main_generic_hc (coating, #867B86)
+[20:16:04] [Render thread/INFO] [Silent Gear/]:   - add layer silentgear:_highlight (coating, colorless)
+[20:16:04] [Render thread/INFO] [Silent Gear/]:   - silentgear:rod_generic_lc -> silentgear:item/sword/rod_generic_lc
+[20:16:04] [Render thread/INFO] [Silent Gear/]:   - silentgear:main_generic_hc -> silentgear:item/sword/main_generic_hc
+[20:16:04] [Render thread/INFO] [Silent Gear/]:   - silentgear:_highlight -> silentgear:item/sword/_highlight
+[20:16:04] [Render thread/INFO] [Silent Gear/]:   - silentgear:main_generic_hc -> silentgear:item/sword/main_generic_hc
+[20:16:04] [Render thread/INFO] [Silent Gear/]:   - silentgear:_highlight -> silentgear:item/sword/_highlight
+[20:16:05] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1648 OpenGL errors: 1281
+[20:16:05] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:16:08] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1788 OpenGL errors: 1281
+[20:16:08] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:16:11] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1544 OpenGL errors: 1281
+[20:16:11] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:16:14] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1896 OpenGL errors: 1281
+[20:16:14] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:16:14] [Thread-80/INFO] [minecraft/NewChatGui]: [CHAT] OpenGL Error: 1281 (Invalid value)
+[20:16:17] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1616 OpenGL errors: 1281
+[20:16:17] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:16:20] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 624 OpenGL errors: 1281
+[20:16:20] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:16:23] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 796 OpenGL errors: 1281
+[20:16:23] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:16:26] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1032 OpenGL errors: 1281
+[20:16:26] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:16:26] [Thread-80/INFO] [minecraft/NewChatGui]: [CHAT] OpenGL Error: 1281 (Invalid value)
+[20:16:29] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1688 OpenGL errors: 1281
+[20:16:29] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:16:32] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1820 OpenGL errors: 1281
+[20:16:32] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:16:35] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1428 OpenGL errors: 1281
+[20:16:35] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:16:38] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1548 OpenGL errors: 1281
+[20:16:38] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:16:38] [Thread-80/INFO] [minecraft/NewChatGui]: [CHAT] OpenGL Error: 1281 (Invalid value)
+[20:16:41] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1160 OpenGL errors: 1281
+[20:16:41] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:16:44] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 810 OpenGL errors: 1281
+[20:16:44] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:16:47] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1212 OpenGL errors: 1281
+[20:16:47] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:16:50] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1440 OpenGL errors: 1281
+[20:16:50] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:16:50] [Thread-80/INFO] [minecraft/NewChatGui]: [CHAT] OpenGL Error: 1281 (Invalid value)
+[20:16:53] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1792 OpenGL errors: 1281
+[20:16:53] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:16:56] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1384 OpenGL errors: 1281
+[20:16:56] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:16:59] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1176 OpenGL errors: 1281
+[20:16:59] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:17:02] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1624 OpenGL errors: 1281
+[20:17:02] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:17:02] [Thread-80/INFO] [minecraft/NewChatGui]: [CHAT] OpenGL Error: 1281 (Invalid value)
+[20:17:05] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1700 OpenGL errors: 1281
+[20:17:05] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:17:08] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1244 OpenGL errors: 1281
+[20:17:08] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:17:11] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1068 OpenGL errors: 1281
+[20:17:11] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:17:14] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 976 OpenGL errors: 1281
+[20:17:14] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:17:14] [Thread-80/INFO] [minecraft/NewChatGui]: [CHAT] OpenGL Error: 1281 (Invalid value)
+[20:17:17] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 928 OpenGL errors: 1281
+[20:17:18] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:17:21] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1272 OpenGL errors: 1281
+[20:17:21] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:17:24] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1632 OpenGL errors: 1281
+[20:17:24] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:17:26] [Render thread/INFO] [minecolonies/]: Removed all colony views
+[20:17:27] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1270 OpenGL errors: 1281
+[20:17:27] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:17:27] [Thread-80/INFO] [minecraft/NewChatGui]: [CHAT] OpenGL Error: 1281 (Invalid value)
+[20:17:30] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 726 OpenGL errors: 1281
+[20:17:30] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:17:33] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 826 OpenGL errors: 1281
+[20:17:33] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:17:36] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1456 OpenGL errors: 1281
+[20:17:36] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:17:38] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[20:17:39] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 847 OpenGL errors: 1281
+[20:17:39] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:17:39] [Thread-80/INFO] [minecraft/NewChatGui]: [CHAT] OpenGL Error: 1281 (Invalid value)
+[20:17:40] [Server thread/WARN] [minecraft/TrackedEntity]: Fetching packet for removed entity EntityXPOrbBig['Experience Orb'/278303, l='ServerLevel[asr]', x=-1011.71, y=61.77, z=13.49]
+[20:17:40] [Server thread/WARN] [minecraft/TrackedEntity]: Fetching packet for removed entity EntityXPOrbBig['Experience Orb'/278302, l='ServerLevel[asr]', x=-1011.44, y=61.42, z=13.60]
+[20:17:40] [Render thread/INFO] [minecolonies/]: Removed all colony views
+[20:17:40] [Server thread/INFO] [minecraft/IntegratedServer]: Saving and pausing game...
+[20:17:40] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[asr]'/minecraft:overworld
+[20:17:41] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[asr]'/minecraft:the_nether
+[20:17:41] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[asr]'/minecraft:the_end
+[20:17:41] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[asr]'/compactmachines:compact_world
+[20:17:41] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[asr]'/rats:ratlantis
+[20:17:41] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[asr]'/woot:tartarus
+[20:17:41] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[asr]'/mahoutsukai:reality_marble
+[20:17:41] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[asr]'/allthemodium:mining
+[20:17:41] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[asr]'/allthemodium:the_other
+[20:17:41] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[asr]'/lostcities:lostcity
+[20:17:42] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 584 OpenGL errors: 1281
+[20:17:42] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:17:45] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 528 OpenGL errors: 1281
+[20:17:45] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:17:48] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 924 OpenGL errors: 1281
+[20:17:48] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:17:51] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1192 OpenGL errors: 1281
+[20:17:51] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:17:51] [Thread-80/INFO] [minecraft/NewChatGui]: [CHAT] OpenGL Error: 1281 (Invalid value)
+[20:17:54] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1256 OpenGL errors: 1281
+[20:17:54] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:17:57] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1256 OpenGL errors: 1281
+[20:17:57] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:18:00] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1292 OpenGL errors: 1281
+[20:18:00] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:18:03] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1408 OpenGL errors: 1281
+[20:18:03] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:18:03] [Thread-80/INFO] [minecraft/NewChatGui]: [CHAT] OpenGL Error: 1281 (Invalid value)
+[20:18:06] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1404 OpenGL errors: 1281
+[20:18:06] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:18:09] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1052 OpenGL errors: 1281
+[20:18:09] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:18:12] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1504 OpenGL errors: 1281
+[20:18:12] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:18:15] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1396 OpenGL errors: 1281
+[20:18:15] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:18:15] [Thread-80/INFO] [minecraft/NewChatGui]: [CHAT] OpenGL Error: 1281 (Invalid value)
+[20:18:18] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1140 OpenGL errors: 1281
+[20:18:18] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:18:21] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1242 OpenGL errors: 1281
+[20:18:21] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:18:24] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1052 OpenGL errors: 1281
+[20:18:24] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:18:27] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1142 OpenGL errors: 1281
+[20:18:27] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:18:27] [Thread-80/INFO] [minecraft/NewChatGui]: [CHAT] OpenGL Error: 1281 (Invalid value)
+[20:18:30] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 752 OpenGL errors: 1281
+[20:18:30] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:18:32] [Render thread/INFO] [minecolonies/]: Removed all colony views
+[20:18:33] [Server thread/INFO] [minecraft/IntegratedServer]: Saving and pausing game...
+[20:18:33] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[asr]'/minecraft:overworld
+[20:18:33] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1088 OpenGL errors: 1281
+[20:18:33] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[asr]'/minecraft:the_nether
+[20:18:33] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[asr]'/minecraft:the_end
+[20:18:33] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[asr]'/compactmachines:compact_world
+[20:18:33] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[asr]'/rats:ratlantis
+[20:18:33] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[asr]'/woot:tartarus
+[20:18:33] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[asr]'/mahoutsukai:reality_marble
+[20:18:33] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[asr]'/allthemodium:mining
+[20:18:33] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[asr]'/allthemodium:the_other
+[20:18:33] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[asr]'/lostcities:lostcity
+[20:18:34] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:18:36] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 709 OpenGL errors: 1281
+[20:18:36] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:18:39] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 888 OpenGL errors: 1281
+[20:18:39] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:18:39] [Thread-80/INFO] [minecraft/NewChatGui]: [CHAT] OpenGL Error: 1281 (Invalid value)
+[20:18:42] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 960 OpenGL errors: 1281
+[20:18:42] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:18:45] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1140 OpenGL errors: 1281
+[20:18:45] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:18:46] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[20:18:48] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1152 OpenGL errors: 1281
+[20:18:48] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:18:51] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1284 OpenGL errors: 1281
+[20:18:51] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:18:51] [Thread-80/INFO] [minecraft/NewChatGui]: [CHAT] OpenGL Error: 1281 (Invalid value)
+[20:18:54] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1440 OpenGL errors: 1281
+[20:18:54] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:18:57] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1272 OpenGL errors: 1281
+[20:18:57] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:19:00] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1155 OpenGL errors: 1281
+[20:19:00] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:19:00] [Render thread/INFO] [minecolonies/]: Removed all colony views
+[20:19:01] [Server thread/INFO] [minecraft/IntegratedServer]: Saving and pausing game...
+[20:19:01] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[asr]'/minecraft:overworld
+[20:19:01] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[asr]'/minecraft:the_nether
+[20:19:01] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[asr]'/minecraft:the_end
+[20:19:01] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[asr]'/compactmachines:compact_world
+[20:19:01] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[asr]'/rats:ratlantis
+[20:19:01] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[asr]'/woot:tartarus
+[20:19:01] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[asr]'/mahoutsukai:reality_marble
+[20:19:01] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[asr]'/allthemodium:mining
+[20:19:01] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[asr]'/allthemodium:the_other
+[20:19:01] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[asr]'/lostcities:lostcity
+[20:19:03] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 835 OpenGL errors: 1281
+[20:19:03] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:19:03] [Thread-80/INFO] [minecraft/NewChatGui]: [CHAT] OpenGL Error: 1281 (Invalid value)
+[20:19:04] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Is the server overloaded? Running 2636ms or 52 ticks behind
+[20:19:06] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 736 OpenGL errors: 1281
+[20:19:06] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:19:09] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1092 OpenGL errors: 1281
+[20:19:09] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:19:12] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 828 OpenGL errors: 1281
+[20:19:12] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:19:15] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 724 OpenGL errors: 1281
+[20:19:15] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:19:15] [Thread-80/INFO] [minecraft/NewChatGui]: [CHAT] OpenGL Error: 1281 (Invalid value)
+[20:19:18] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 952 OpenGL errors: 1281
+[20:19:18] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:19:21] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1400 OpenGL errors: 1281
+[20:19:21] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:19:24] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1392 OpenGL errors: 1281
+[20:19:24] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:19:27] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1265 OpenGL errors: 1281
+[20:19:27] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:19:27] [Thread-80/INFO] [minecraft/NewChatGui]: [CHAT] OpenGL Error: 1281 (Invalid value)
+[20:19:30] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1476 OpenGL errors: 1281
+[20:19:30] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:19:33] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1480 OpenGL errors: 1281
+[20:19:33] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:19:36] [Render thread/ERROR] [ne.op.Config/]: [OptiFine] Suppressed 1502 OpenGL errors: 1281
+[20:19:36] [Thread-80/ERROR] [minecraft/GlDebugTextUtils]: OpenGL API ERROR: 1281 (GL_INVALID_VALUE error generated. neither <first> nor <count> can be negative.)
+java.lang.Exception: Stack trace
+	at net.minecraft.client.renderer.GlDebugTextUtils.func_209244_a(GlDebugTextUtils.java:189) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10] {}
+[20:19:37] [Render thread/INFO] [minecolonies/]: Removed all colony views
+[20:19:37] [Server thread/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Exception caught during firing event: net.minecraft.client.world.ClientWorld cannot be cast to net.minecraft.world.server.ServerWorld
+	Index: 24
+	Listeners:
+		0: NORMAL
+		1: ASM: class com.feed_the_beast.mods.ftbessentials.FTBEEventHandler serverTick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		2: ASM: class net.xalcon.torchmaster.common.logic.entityblocking.EntityBlockingEventHandler onGlobalTick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		3: net.minecraftforge.eventbus.EventBus$$Lambda$2971/1728457363@70ce8742
+		4: ASM: class net.silentchaos512.gear.event.GearEvents onServerTick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		5: net.minecraftforge.eventbus.EventBus$$Lambda$2971/1728457363@662b4dbd
+		6: net.minecraftforge.eventbus.EventBus$$Lambda$2971/1728457363@65231a72
+		7: ASM: net.roguelogix.phosphophyllite.Phosphophyllite@211a78c advanceTick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		8: ASM: mythicbotany.EventListener@74566b1b endTick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		9: ASM: me.desht.pneumaticcraft.common.event.TickHandlerPneumaticCraft@671b9246 onServerTickEnd(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		10: ASM: class com.feed_the_beast.mods.ftbbackups.FTBBackups serverTick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		11: ASM: class de.srendi.advancedperipherals.common.util.ServerWorker serverTick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		12: ASM: com.github.alexthe666.citadel.server.CitadelEvents@1821df63 onServerTickEvent(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		13: ASM: net.minecraftforge.common.ForgeInternalHandler@6c71d080 onServerTick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		14: ASM: class vazkii.psi.common.core.handler.PlayerDataHandler$EventHandler onServerTick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		15: net.minecraftforge.eventbus.EventBus$$Lambda$2971/1728457363@7e79b19a
+		16: ASM: class owmii.lib.util.Server tick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		17: ASM: class com.hollingsworth.arsnouveau.common.event.WorldEvent worldTick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		18: ASM: class me.shedaniel.architectury.event.forge.EventHandlerImplCommon event(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		19: ASM: class dan200.computercraft.shared.peripheral.monitor.MonitorWatcher onTick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		20: ASM: class dan200.computercraft.shared.proxy.ComputerCraftProxyCommon$ForgeHandlers onServerTick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		21: ASM: class dan200.computercraft.shared.util.TickScheduler tick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		22: net.minecraftforge.eventbus.EventBus$$Lambda$2971/1728457363@7a09dd80
+		23: ASM: class cofh.ensorcellation.event.CommonEvents handleTickEndEvent(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		24: net.minecraftforge.eventbus.EventBus$$Lambda$2971/1728457363@46f321d9
+		25: ASM: class sonar.fluxnetworks.register.CommonEventHandler onServerTick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		26: ASM: class com.minecolonies.coremod.event.FMLEventHandler onServerTick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		27: ASM: class com.simibubi.create.events.CommonEvents onServerTick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		28: net.minecraftforge.eventbus.EventBus$$Lambda$2971/1728457363@3bfe53ff
+		29: ASM: mekanism.common.CommonWorldTickHandler@38c146fd onTick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		30: ASM: Network Registry:
+{} onTick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		31: ASM: class com.direwolf20.mininggadgets.common.events.ServerTickHandler handleTickEndEvent(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		32: ASM: org.cyclops.integrateddynamics.core.TickHandler@73f4c983 onTick(Lnet/minecraftforge/event/TickEvent;)V
+		33: ASM: org.cyclops.integrateddynamics.core.NoteBlockEventReceiver@436fdd9f onTick(Lnet/minecraftforge/event/TickEvent;)V
+		34: LOWEST
+		35: ASM: class ovh.corail.tombstone.event.EventHandler onServerTick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		36: ASM: class cofh.core.event.AreaEffectEvents handleTickEndEvent(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+java.lang.ClassCastException: net.minecraft.client.world.ClientWorld cannot be cast to net.minecraft.world.server.ServerWorld
+	at appeng.me.cache.StatisticsCache.addChunk(StatisticsCache.java:136)
+	at appeng.me.cache.StatisticsCache.addNode(StatisticsCache.java:79)
+	at appeng.me.GridCacheWrapper.addNode(GridCacheWrapper.java:48)
+	at appeng.me.Grid.add(Grid.java:175)
+	at appeng.me.GridNode.setGrid(GridNode.java:226)
+	at appeng.me.Grid.<init>(Grid.java:68)
+	at appeng.me.GridNode.getInternalGrid(GridNode.java:138)
+	at appeng.me.GridNode.updateState(GridNode.java:195)
+	at appeng.me.helpers.AENetworkProxy.getNode(AENetworkProxy.java:135)
+	at appeng.me.helpers.AENetworkProxy.onReady(AENetworkProxy.java:128)
+	at appeng.parts.AEBasePart.addToWorld(AEBasePart.java:255)
+	at appeng.parts.CableBusContainer.addToWorld(CableBusContainer.java:524)
+	at appeng.tile.networking.CableBusTileEntity.onReady(CableBusTileEntity.java:189)
+	at appeng.hooks.TickHandler.onServerTick(TickHandler.java:234)
+	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:247)
+	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:239)
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
+	at net.minecraftforge.fml.hooks.BasicEventHooks.onPostServerTick(BasicEventHooks.java:120)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:828)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:118)
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642)
+	at net.minecraft.server.MinecraftServer.lambda$startServer$0(MinecraftServer.java:232)
+	at java.lang.Thread.run(Unknown Source)
+
+[20:19:37] [Server thread/ERROR] [minecraft/MinecraftServer]: Encountered an unexpected exception
+java.lang.ClassCastException: net.minecraft.client.world.ClientWorld cannot be cast to net.minecraft.world.server.ServerWorld
+	at appeng.me.cache.StatisticsCache.addChunk(StatisticsCache.java:136) ~[appliedenergistics2:8.3.0-alpha.1] {re:classloading}
+	at appeng.me.cache.StatisticsCache.addNode(StatisticsCache.java:79) ~[appliedenergistics2:8.3.0-alpha.1] {re:classloading}
+	at appeng.me.GridCacheWrapper.addNode(GridCacheWrapper.java:48) ~[appliedenergistics2:8.3.0-alpha.1] {re:classloading}
+	at appeng.me.Grid.add(Grid.java:175) ~[appliedenergistics2:8.3.0-alpha.1] {re:classloading}
+	at appeng.me.GridNode.setGrid(GridNode.java:226) ~[appliedenergistics2:8.3.0-alpha.1] {re:classloading}
+	at appeng.me.Grid.<init>(Grid.java:68) ~[appliedenergistics2:8.3.0-alpha.1] {re:classloading}
+	at appeng.me.GridNode.getInternalGrid(GridNode.java:138) ~[appliedenergistics2:8.3.0-alpha.1] {re:classloading}
+	at appeng.me.GridNode.updateState(GridNode.java:195) ~[appliedenergistics2:8.3.0-alpha.1] {re:classloading}
+	at appeng.me.helpers.AENetworkProxy.getNode(AENetworkProxy.java:135) ~[appliedenergistics2:8.3.0-alpha.1] {re:classloading}
+	at appeng.me.helpers.AENetworkProxy.onReady(AENetworkProxy.java:128) ~[appliedenergistics2:8.3.0-alpha.1] {re:classloading}
+	at appeng.parts.AEBasePart.addToWorld(AEBasePart.java:255) ~[appliedenergistics2:8.3.0-alpha.1] {re:classloading}
+	at appeng.parts.CableBusContainer.addToWorld(CableBusContainer.java:524) ~[appliedenergistics2:8.3.0-alpha.1] {re:classloading}
+	at appeng.tile.networking.CableBusTileEntity.onReady(CableBusTileEntity.java:189) ~[appliedenergistics2:8.3.0-alpha.1] {re:classloading}
+	at appeng.hooks.TickHandler.onServerTick(TickHandler.java:234) ~[appliedenergistics2:8.3.0-alpha.1] {re:classloading}
+	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:247) ~[eventbus-4.0.0.jar:?] {}
+	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:239) ~[eventbus-4.0.0.jar:?] {}
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302) ~[eventbus-4.0.0.jar:?] {}
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283) ~[eventbus-4.0.0.jar:?] {}
+	at net.minecraftforge.fml.hooks.BasicEventHooks.onPostServerTick(BasicEventHooks.java:120) ~[forge:?] {re:classloading}
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:828) ~[?:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:byg.mixins.json:server.MixinMinecraftServer,pl:mixin:A}
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:118) ~[?:?] {re:classloading,xf:OptiFine:default}
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642) ~[?:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:byg.mixins.json:server.MixinMinecraftServer,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.lambda$startServer$0(MinecraftServer.java:232) ~[?:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:byg.mixins.json:server.MixinMinecraftServer,pl:mixin:A}
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_281] {}
+[20:19:37] [Server thread/FATAL] [ne.mi.co.ForgeMod/]: Preparing crash report with UUID e2f59eca-dafa-482b-bad4-1f8d4f484583
+AL lib: (EE) alc_cleanup: 1 device not closed
